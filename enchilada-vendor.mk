@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/enchilada/proprietary/vendor/etc/sensors/config/sdm845_bmi160_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sdm845_bmi160_0.json \
     vendor/oneplus/enchilada/proprietary/vendor/etc/sensors/config/sdm845_lsm6ds3c_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sdm845_lsm6ds3c_0.json \
     vendor/oneplus/enchilada/proprietary/vendor/etc/sensors/config/sdm845_stk36xx_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sdm845_stk36xx_0.json \
+    vendor/oneplus/enchilada/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/oneplus/enchilada/proprietary/vendor/lib/camera/oneplus6_vstab_db_0_1080p_video_30fps.config:$(TARGET_COPY_OUT_VENDOR)/lib/camera/oneplus6_vstab_db_0_1080p_video_30fps.config \
     vendor/oneplus/enchilada/proprietary/vendor/lib/camera/oneplus6_vstab_db_0_1080p_video_60fps.config:$(TARGET_COPY_OUT_VENDOR)/lib/camera/oneplus6_vstab_db_0_1080p_video_60fps.config \
     vendor/oneplus/enchilada/proprietary/vendor/lib/camera/oneplus6_vstab_db_0_4k_video_30fps.config:$(TARGET_COPY_OUT_VENDOR)/lib/camera/oneplus6_vstab_db_0_4k_video_30fps.config \
